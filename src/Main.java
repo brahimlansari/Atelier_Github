@@ -12,7 +12,7 @@ public class Main {
             // Press Maj+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
-            System.out.println("test n°1");git commit 
+            System.out.println("test n°1");git commit
         }
     }
 }
